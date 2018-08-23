@@ -39,13 +39,14 @@
 ☐ │       ├── Implemented across project
 ☐ │       ├── Formatted correctly
 ☐ │       ╰── Transpiles error-free to standard JS
-☐ ├── Project Submitted
+☐ ├── ⟐ Project Submitted
   │
   ╰── </Rubric>
 
 
   ╭── <AboveAndBeyond>
-☐ ├── ⟐  
+  │
+☐ ├── ⟐ ServiceWorker
 ☐ │   ├──
 ☐ │   ╰── ⬦
 ☐ │       ├──
