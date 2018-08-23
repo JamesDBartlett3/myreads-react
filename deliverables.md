@@ -62,4 +62,6 @@
 ☐ │       ╰──
   │
   ╰── </AboveAndBeyond>
+
+Checked Box: ☑︎
 ```
