@@ -1,4 +1,4 @@
-```bash
+
 * [x] ├── Local Folder Created
 * [x] ├── GitHub Repo
 * [x] │   ├── Created
@@ -9,4 +9,3 @@
 * [ ] ├── Milestone 3
 * [ ] ├── Milestone 4
 * [ ] Project Submitted
-```
