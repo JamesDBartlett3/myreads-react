@@ -1,5 +1,5 @@
 ```
-  ⬥ Project 6 —— MyReads-React
+⬥ Project 6 —— MyReads-React
 
   ╭── <Rubric>
   │
