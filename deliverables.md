@@ -1,6 +1,6 @@
 
-* [x] ├── Local Folder Created
-* [x] ├── GitHub Repo
+* [x] ├-- Local Folder Created
+* [x] ├-- GitHub Repo
 * [x] │   ├── Created
 * [x] │   ├── Committed
 * [x] │   └── Pushed
