@@ -63,13 +63,3 @@
   │
   ╰── </AboveAndBeyond>
 ```
-
-
-
-```
-☐☐☐☐☐☐☐☐☐	Unchecked Box	☐☐☐☐☐☐☐☐☐
-☑☑☑☑☑☑☑☑☑	Checked	Box		☑☑☑☑☑☑☑☑☑
-⬥⬥⬥⬥⬥⬥⬥		H1 Diamond		⬥⬥⬥⬥⬥⬥⬥
-⟐⟐⟐⟐⟐⟐⟐		H2 Diamond		⟐⟐⟐⟐⟐⟐⟐
-⬦⬦⬦⬦⬦⬦⬦		H3 Diamond		⬦⬦⬦⬦⬦⬦⬦
-```
