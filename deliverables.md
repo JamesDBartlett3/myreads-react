@@ -1,8 +1,8 @@
 
 * [x] ├-- Local Folder Created
 * [x] ├-- GitHub Repo
-* [x] │   ├── Created
-* [x] │   ├── Committed
+* [x] │   ├—— Created
+* [x] │   ├— Committed
 * [x] │   └── Pushed
 * [ ] ├── Milestone 1
 * [ ] ├── Milestone 2
