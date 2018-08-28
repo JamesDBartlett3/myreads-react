@@ -1,6 +1,7 @@
-import React, { Component } from 'react';
-//import Shelf from './Shelf';
-import Book from './Book';
+import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
+//import Shelf from './Shelf'
+import Book from './Book'
 
 class Main extends Component {
 	render() {
@@ -74,7 +75,7 @@ class Main extends Component {
                 </div>
               </div>
               <div className="open-search">
-                <a onClick={() => this.setState({ showSearchPage: true })}>Add a book</a>
+                <Link to='search'>Add a book</Link>
               </div>
             </div>
 		);
