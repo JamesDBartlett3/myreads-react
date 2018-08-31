@@ -64,5 +64,8 @@
   │
   ╰── </AboveAndBeyond>
 
+One of my stretch goals is to add `metadata tagging` functionality to the app, so the user can create & modify tags to categorize/organize their books, and then sort/filter their collection by genre, reading level, page length, etc. I’m completely open to any input on how to approach this. 
+
+
 Checked Box: ☑︎
 ```
