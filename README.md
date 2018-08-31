@@ -1,4 +1,21 @@
 # MyReads Project
+This is a quick-and-dirty demonstration of the kind of web app that can be
+made quickly with React.
+
+## Installation Instructions
+1) Clone the repo
+2) `cd` into the directory
+3) Type `chmod +x docs/install_deps.sh`
+4) Type `./install_deps.sh`
+5) Wait for that to finish
+6) Type `npm start` to launch the server
+7) Open a web browser and navigate to http://localhost:3000/
+
+### Credits
+I'd like to give a BIG shout-out to @MaevaNAP for creating [an amazing 4-hour tutorial on YouTube](https://www.youtube.com/watch?v=i6L2jLHV9j8)
+that really helped me understand how React works, and how to make it work in this project. Cheers!
+
+<!-- # MyReads Project
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
 
@@ -90,3 +107,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+-->
