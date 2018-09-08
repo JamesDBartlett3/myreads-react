@@ -5,6 +5,23 @@ import Main from './Main'
 import Search from './Search'
 import './App.css'
 
+
+{/*
+
+Suggested code improvement snippet from Forrest [FEND]:
+
+updateBooks = (shelf, book) => {
+  console.log(`moved to ${shelf}`);
+  BooksAPI.update(book, shelf)
+	  .then(() => BooksAPI.getAll())
+	  .then(books => this.setState({books}))
+  .catch(error => console.log(error))
+  console.log(this.state.books);
+}
+
+*/}
+
+
 class BooksApp extends React.Component {
 	state = {
 		books: []
