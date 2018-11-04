@@ -6,7 +6,7 @@ import Search from './Search'
 import './App.css'
 
 
-{/*
+/*
 
 Suggested code improvement snippet from Forrest [FEND]:
 
@@ -19,7 +19,7 @@ updateBooks = (shelf, book) => {
   console.log(this.state.books);
 }
 
-*/}
+*/
 
 
 class BooksApp extends React.Component {
