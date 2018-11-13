@@ -1,5 +1,5 @@
 {
-	"homepage:": "https://jamesdbartlett.github.io/myreads-react/",
+	"homepage:": "https://jamesdbartlett.github.io/myreads-react",
 	"dependencies": {
 		"escape-string-regexp": "^1.0.5",
 		"form-serialize": "^0.7.2",
