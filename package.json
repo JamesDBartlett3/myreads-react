@@ -1,8 +1,9 @@
 {
-	"homepage:": "",
+	"homepage:": "https://jamesdbartlett.github.io/myreads-react/",
 	"dependencies": {
 		"escape-string-regexp": "^1.0.5",
 		"form-serialize": "^0.7.2",
+		"gh-pages": "^2.0.1",
 		"prop-types": "^15.6.2",
 		"react": "^16.3.2",
 		"react-dom": "^16.3.2",
@@ -16,6 +17,8 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test --env=jsdom",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"eject": "react-scripts eject"
 	}
 }
