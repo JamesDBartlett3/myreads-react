@@ -3,7 +3,7 @@ This is a quick-and-dirty demonstration of the kind of web app that can be
 made quickly with React.
 
 ## Installation Instructions
-1) Clone [the repo](https://github.com/JamesDBartlett/myreads-react)
+1) Clone [the repo](https://github.com/JamesDBartlett3/myreads-react)
 2) `cd` into the directory
 3) Type `chmod +x docs/install_deps.sh`
 4) Type `./install_deps.sh`
